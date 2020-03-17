@@ -1,3 +1,184 @@
+h2{
+  font-style: italic;
+}
+#box1{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+#box2{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  }
+#box3{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+  
+}
+#box4{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+#box{
+  display:flex;
+  justify-content:space-around ;
+}
+#num{
+  text-align: center;
+  margin-top: 10%;
+}
+#box1{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+#box2{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+#box3{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+
+  
+}
+#box4{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  
+}
+#box{
+  display:flex;
+  justify-content:space-around ;
+}
+#num{
+  text-align: center;
+  margin-top: 10%;
+}
+#B1{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+#B2{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+#B3{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+  
+}
+#B4{
+  background-color: beige;
+  padding: 10px;
+  border:5px solid black;
+  margin:20px;
+  height: fit-content;
+  width:180px;
+  box-sizing: border-box;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+#B{
+  display:flex;
+  justify-content:space-around ;
+}
+#num1{
+  text-align: center;
+  margin-top: 10%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .footer{
   margin-left : 80px;
   font-size : 18px;
